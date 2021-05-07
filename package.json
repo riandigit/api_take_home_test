@@ -1,0 +1,26 @@
+{
+  "name": "api_take_home_test",
+  "version": "1.0.0",
+  "description": "untuk recruitment",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg-promise": "^10.6.1",
+    "validatorjs": "^3.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.nutech-integrasi.com/nutech/api_take_home_test.git"
+  },
+  "author": "nutech-integrasi",
+  "license": "ISC"
+}
